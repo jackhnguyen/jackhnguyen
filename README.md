@@ -1,5 +1,11 @@
-## Hi there 👋
+## Good day everyone **(❁´◡`❁)**
+Hi guys I'm currently working through the UCI [ICSSC fellowship](https://fellowship.icssc.club/course/unit1/) to learn more about web development. My goal is to learn the basics that includes, html, css, js, react, and move onto next.js so that I can make my own applicaitons. If you have any cool resources for me I'd be so down to look into it.
 
+### Contacts
+[linkedin](https://www.linkedin.com/in/jackson-nguyen-5bb15728a/)
+[instagram](https://www.instagram.com/jacksnguyen/)
+
+Fun fact: The oldest current living tortoises is at a fine 192 years old.
 <!--
 **jackhnguyen/jackhnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
